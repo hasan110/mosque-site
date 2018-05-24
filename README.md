@@ -1,0 +1,2 @@
+# mosque-site
+GitHub Pages
